@@ -1,1 +1,2 @@
 This task focuses on anonymising a data set of sensitive customer information. The dataset must preserve the utility and valuable information within the dataset while anonymising any personal or sensitive information. Submit the anonymised data set as a CSV file for your deliverable.
+I delete & masking the dataset from Task 2/mobile_customers.xlsx to Task 2/mobile_customers_masking.csv
