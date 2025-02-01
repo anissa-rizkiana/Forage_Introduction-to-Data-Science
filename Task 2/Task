@@ -2,4 +2,4 @@ This task focuses on anonymising a data set of sensitive customer information. T
 I delete & masking the dataset from Task 2/mobile_customers.xlsx to Task 2/mobile_customers_masking.csv
 
 And this is the answer from the Commonwealth Bank: Task 2/model_answer_csv.csv
-The answer is different than my answer but the point is still the same, protect customers's privacy data.
+The answer is different than my answer but the point is still the same, protect customers's data privacy.
